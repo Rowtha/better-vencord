@@ -9,11 +9,11 @@
     "type": "module",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Rowtha/better-vencord.git",
+        "url": "git+https://github.com/Rowtha/Adacord",
         "directory": "packages/discord-types"
     },
     "dependencies": {
-        "moment": "2.22.2",
+        "moment": "^2.29.4",
         "type-fest": "^5.7.0"
     },
     "peerDependencies": {
